@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Alexander Maldonado</h1>
 
-<h3 align="center">Computational Biologist and Biotechnologist | MSc in Computational Biology | Ecuador 🇪🇨</h3>
+<h3 align="center">Computational Virologist | MSc in Computational Biology | Ecuador 🇪🇨</h3>
 
 <p align="center">
   <a href="https://orcid.org/0000-0002-5583-2141" target="_blank">
