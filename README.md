@@ -70,7 +70,7 @@ Coming soon — I am actively populating my GitHub with reproducible workflows:
 | Repository | Description | Status |
 |:-----------|:------------|:-------|
 | rabies-ecuador-spatiotemporal | Spatial & phylogenetic analysis of bovine rabies in Ecuador (2025) | 🟢 In progress |
-| btv-global-phylodynamics | Global phylodynamics of bluetongue virus serotypes based on VP2 gene (MSc thesis) | 🟡 Planned |
+| btv-global-phylodynamics | Global phylodynamics of bluetongue virus serotypes based on VP2 gene | 🟡 Planned |
 | mtt-dose-response | MTT cytotoxicity assay analysis with dose-response curves (IC50) | 🟡 Planned |
 | biobank-sops | Standard operating procedures for ISO 20387-aligned biobanking | 🟡 Planned |
 | vsv-outbreak-clustering | Space-time cluster detection of vesicular stomatitis virus outbreaks | 🟡 Planned |
